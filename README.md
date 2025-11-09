@@ -50,5 +50,9 @@ Install via Arduino Library Manager:
 - `Wire`
 
 ---
+## 🌐 Online Simulator
 
-## 📁 Folder Structure
+You can view and test this project in the online simulator using the link below:
+
+🔗 **Simulator Link:**  
+[▶️ Open Simulator](https://wokwi.com/projects/441061123617910785)
