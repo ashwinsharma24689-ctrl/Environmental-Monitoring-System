@@ -1,0 +1,50 @@
+############################
+# Arduino / C++ .gitignore
+############################
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Compiled Dynamic Libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.bin
+*.hex
+
+# Arduino build folder
+build/
+*.tds
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode / PlatformIO
+.vscode/
+.pio/
+
+# Backup files
+*.bak
+*.tmp
+
+# Mac metadata
+._*
